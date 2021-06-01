@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ian
 - 👀 I’m interested in web and application development...
 - 🌱 I’m currently learning Java and React.
-- 📫 How to reach me ...
+- 📫 How to reach me: imacmumf@gmail.com
 
 <!---
 imacmumf/imacmumf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

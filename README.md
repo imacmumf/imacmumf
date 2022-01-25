@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian
 - 👀 I’m interested in web and application development...
-- 🌱 I’m currently learning Java and React.
+- 🖥 I’m currently learning Three JS and React.
 - 📫 How to reach me: imacmumf@gmail.com
 
 <!---
